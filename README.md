@@ -41,8 +41,11 @@ Five Minutes Before Midnight is a sci-fi mystery short film exploring time loops
 Coming soon...
 
 ## 🎬 Final Film
+## 🎬 Watch the Film
 
-Coming soon...
+[▶ Download Five Minutes Before Midnight (1080p)](https://github.com/Ocmapa28/Five-Minutes-Before-Midnight/releases/tag/v1.0.0)
+
+**1080p | 24 FPS | Sci-Fi / Mystery**
 
 ---
 
