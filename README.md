@@ -5,7 +5,7 @@ Five Minutes Before Midnight is a cinematic sci-fi mystery short film created in
 # 🎬 Five Minutes Before Midnight
 
 <p align="center">
-  <img src="cinematic_movie_poster_dark_moody_sci_fi_thriller.png" width="500"/>
+  <img src="Five%20Minutes%20Before%20Midnight.png" width="500"/>
 </p>
 
 <p align="center">
