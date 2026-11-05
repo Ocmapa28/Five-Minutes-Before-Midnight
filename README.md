@@ -36,6 +36,12 @@ Five Minutes Before Midnight is a sci-fi mystery short film exploring time loops
 - Rendering
 - Sound Design
 
+## 🛠️ Blender Project
+
+[Download Blender Project (.blend)](https://github.com/Ocmapa28/Five-Minutes-Before-Midnight/blob/main/FMBM_Scene01_Room_V30.blend)
+
+**Created with Blender | Cycles Rendering**
+
 ## 📸 Behind the Scenes
 
 Coming soon...
